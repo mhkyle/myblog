@@ -49,7 +49,7 @@ func Producer(ch chan string) error {
 ### consumer
 
 ```
-func (pdbs *PDBSyncer) Consumer(id int, ch chan string, done chan bool) {
+func Consumer(id int, ch chan string, done chan bool) {
 	for {
 		value, ok := <-ch
 		if ok {
