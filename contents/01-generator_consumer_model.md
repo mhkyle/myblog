@@ -64,4 +64,6 @@ func (pdbs *PDBSyncer) Consumer(id int, ch chan string, done chan bool) {
 
 ```
 
-OK, thanks for your view. [Last note]()
+OK, thanks for your view. 
+
+## [last note](https://minghuiyuan.github.io/myBlog/) <<< >>> [next note]()
