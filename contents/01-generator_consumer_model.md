@@ -66,4 +66,4 @@ func Consumer(id int, ch chan string, done chan bool) {
 
 OK, thanks for your view. 
 
-## [last note: index](https://minghuiyuan.github.io/myblog/) <<<->>> [next note: basic vi operations](https://minghuiyuan.github.io/myblog/02-vim_vi)
+#### [last: index](https://minghuiyuan.github.io/myblog/) <  > [next: basic vi operations](https://minghuiyuan.github.io/myblog/02-vim_vi)

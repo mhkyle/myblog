@@ -15,9 +15,8 @@
 v
 # 上下键选中,然后键入d删除选中
 d
+```
 
 
 
-
-
-## [last note:golang生产者消费者模型](https://minghuiyuan.github.io/myblog/contents/01-generator_consumer_model) <<<->>> [next note](...)
+#### [last note:golang生产者消费者模型](https://minghuiyuan.github.io/myblog/contents/01-generator_consumer_model) < > [next note](...)
