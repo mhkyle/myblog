@@ -2,4 +2,4 @@
 Hello everyone, this is Kyle. Welcome to my blog.
 
 
-## [last note]() <<< >>> [next note](https://minghuiyuan.github.io/myBlog/contents/01-generator_consumer_model)
+## [last note]() <<< >>> [next note](https://minghuiyuan.github.io/myblog/contents/01-generator_consumer_model)
