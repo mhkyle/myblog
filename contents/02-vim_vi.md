@@ -19,4 +19,4 @@ d
 
 
 
-#### [last note:golang生产者消费者模型](https://minghuiyuan.github.io/myblog/contents/01-generator_consumer_model) < > [next note](...)
+#### [last: golang生产者消费者模型](https://minghuiyuan.github.io/myblog/contents/01-generator_consumer_model) < > [next: k8s的crds](https://minghuiyuan.github.io/myblog/contents/03-k8s_crds)
