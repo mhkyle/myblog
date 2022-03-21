@@ -1,5 +1,5 @@
 ## My first note
-Hello everyone, this is Kyle. Welcome to my blog.
+Hello everyone, this is Kyle. Welcome to my blog. Here I will introduce and dive deep into some technical items step by step. Please star and watch
 
 ## Index
 - [vi](https://minghuiyuan.github.io/myblog/contents/vi)
